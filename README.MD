@@ -1,8 +1,8 @@
 # Server Side Events:FastAPI on Azure Container Apps
 
-Simple echo server containered app to test websocket hosted in Azure Container Apps
+Simple Server Side Events generating server as a containered app hosted in Azure Container Apps
 
-![Miztiik Automation - Server Side Events:FastAPI](images/miztiik_architecture_server_side_events_001.png)
+![Miztiik Automation - Server Side Events:FastAPI](images/miztiik_architecture_server_side_events_0001.png)
 
 
 # Create the Resources.
