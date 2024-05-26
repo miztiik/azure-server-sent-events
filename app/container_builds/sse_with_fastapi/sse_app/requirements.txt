@@ -1,0 +1,7 @@
+# Async
+asyncio
+aiohttp
+websockets
+fastapi
+sse-starlette
+uvicorn
